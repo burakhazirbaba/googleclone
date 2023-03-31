@@ -1,2 +1,1 @@
-# Google_Page
- google landing page css
+Google Landing Page (Pure CSS)
